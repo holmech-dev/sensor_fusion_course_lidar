@@ -1,3 +1,0 @@
-/home/chris/Udacity/sensor_fusion_course/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/rebuild_cache.dir
-/home/chris/Udacity/sensor_fusion_course/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/environment.dir
-/home/chris/Udacity/sensor_fusion_course/SFND_Lidar_Obstacle_Detection/build/CMakeFiles/edit_cache.dir
